@@ -32,3 +32,10 @@ Se logró desarrollar un modelo que puede clasificar dígitos manuscritos con un
 - Métricas de interés:
 
 ![image](https://github.com/bdrinconp/ml_mnist/assets/63571645/b4a27094-e977-4eb9-bc2f-779ca9ce6b40)
+
+# Dígitos sintetizados
+Los dígitos sintetizados reflejan de manera adecuada las características generales de cada clase de dígito. Aunque no son representaciones perfectas y pueden carecer de algunos detalles presentes en los dígitos manuscritos reales, sirven como una buena aproximación y demostración de la capacidad del modelo Naive Bayes para entender y replicar patrones subyacentes en los datos.
+
+- Número 6 sintetizado: 
+
+![image](https://github.com/bdrinconp/ml_mnist/assets/63571645/232ba37f-276b-43da-bd6b-c5b20b4dcbf9)
