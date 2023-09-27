@@ -21,3 +21,12 @@ Se realiza una validación cruzada para seleccionar el mejor umbral de binarizac
 
 ## Síntesis de Nuevos Dígitos:
 Se genera un nuevo dígito sintético utilizando las probabilidades condicionales aprendidas por el modelo. Este nuevo dígito representa una visualización de un dígito "promedio" basado en las probabilidades condicionales de cada píxel.
+
+## Resultados:
+Se logró desarrollar un modelo que puede clasificar dígitos manuscritos con una precisión satisfactoria. Además, el modelo fue capaz de sintetizar nuevos dígitos que representan visualizaciones "promedio" de cada clase. A continuación, se presentan los resultados de las métricas de interés (Accuracy, Recall y F1-score), así como la matriz de confusión evaluadas sobre los datos de test.
+
+- Matriz de confusión:
+![image](https://github.com/bdrinconp/ml_mnist/assets/63571645/f49976bf-d54e-45c9-b73a-0343795d9d20)
+
+- Métricas de interés:
+![image](https://github.com/bdrinconp/ml_mnist/assets/63571645/b4a27094-e977-4eb9-bc2f-779ca9ce6b40)
